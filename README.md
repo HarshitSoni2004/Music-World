@@ -27,7 +27,6 @@ The project aims to:
 - Provide a user-friendly and responsive layout that adapts to different screen sizes, ensuring accessibility across devices.  
 - Offer a practical example of how simple yet effective design techniques can create an immersive experience for users.  
 
-This project is both an educational tool for aspiring developers and a template for creating similar thematic websites.  
 
 ---
 
